@@ -1,0 +1,14 @@
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\net6.0\calculatorconsoleapp.exe
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\net6.0\calculatorconsoleapp.deps.json
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\net6.0\calculatorconsoleapp.runtimeconfig.json
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\net6.0\calculatorconsoleapp.dll
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\bin\Debug\net6.0\calculatorconsoleapp.pdb
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\calculatorconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\calculatorconsoleapp.AssemblyInfoInputs.cache
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\calculatorconsoleapp.AssemblyInfo.cs
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\calculatorconsoleapp.csproj.CoreCompileInputs.cache
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\calculatorconsoleapp.dll
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\refint\calculatorconsoleapp.dll
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\calculatorconsoleapp.pdb
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\calculatorconsoleapp.genruntimeconfig.cache
+E:\23.11.5681\pertemuan1\calculatorconsoleapp\calculatorconsoleapp\obj\Debug\net6.0\ref\calculatorconsoleapp.dll
